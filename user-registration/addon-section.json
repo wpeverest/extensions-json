@@ -1,14 +1,14 @@
 {
   "featured": {
     "title": "Featured",
-    "endpoint": "https://gist.githubusercontent.com/shivapoudel/c56a5176412b131283dbdc1c35929fcf/raw/d600c15729c8ed8dafe907da84744eeaf536cbe4/featured.json"
+    "endpoint": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/addon-section.json"
   },
   "free": {
     "title": "Free",
-    "endpoint": "https://gist.githubusercontent.com/shivapoudel/c56a5176412b131283dbdc1c35929fcf/raw/a02971431a98944c732f1723a37cc432d8cfb3c9/free.json"
+    "endpoint": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/free.json"
   },
   "third_party": {
     "title": "Third-party",
-    "endpoint": "https://gist.githubusercontent.com/shivapoudel/c56a5176412b131283dbdc1c35929fcf/raw/3ab5ea0075168ef3c83d619a25338617bc94e568/third_party.json"
+    "endpoint": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/third_party.json"
   }
 }
