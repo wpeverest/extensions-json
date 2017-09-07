@@ -1,14 +1,6 @@
 {
-  "featured": {
-    "title": "Featured",
-    "endpoint": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/addon-section.json"
-  },
-  "free": {
-    "title": "Free",
-    "endpoint": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/free.json"
-  },
-  "third_party": {
-    "title": "Third-party",
-    "endpoint": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/third_party.json"
+  "all_extensions": {
+    "title": "All Extensions",
+    "endpoint": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/all_extensions.json"
   }
 }

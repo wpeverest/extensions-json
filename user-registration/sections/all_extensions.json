@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "title": "File Upload",
+      "image": "https://woocommerce.com/wp-content/uploads/2017/04/open-graph-fb-for-woocommerce2x2.jpg?w=980",
+      "excerpt": "Get the Facebook for WooCommerce plugin for two powerful ways to help grow your business.",
+      "link": "https://woocommerce.com/products/facebook/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Social Connect",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAYCAQAAACRxV9RAAAADklEQVR42mNkYGCkBgIAA8wAGRmQESkAAAAASUVORK5CYII=",
+      "excerpt": "Your site, your members, your way. A bundle of nineteen Woo products for building a flexible memberships solution on the world’s most popular eCommerce platform.",
+      "link": "https://woocommerce.com/products/woomembers-bundle/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;299.00"
+    }
+  ]
+}
