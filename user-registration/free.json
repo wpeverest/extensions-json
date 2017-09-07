@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "title": "Stripe",
+      "image": "https://woocommerce.com/wp-content/uploads/2016/08/stripe.png",
+      "excerpt": "Accept Visa, MasterCard, American Express, Discover, JCB, and Diners Club cards directly on your store.",
+      "link": "https://woocommerce.com/products/stripe/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Amazon Pay",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/08/logo-amazonpay-fullcolor-dark-rgb.png",
+      "excerpt": "Amazon Pay is embedded in your WooCommerce store. Transactions take place via Amazon widgets, so the buyer never leaves your site.",
+      "link": "https://woocommerce.com/products/pay-with-amazon/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "PayFast Payment Gateway",
+      "image": "https://woocommerce.com/wp-content/uploads/woocommerce_uploads/2011/09/payfast2x.png",
+      "excerpt": "Take payments on your WooCommerce store via PayFast (redirect method).",
+      "link": "https://woocommerce.com/products/payfast-payment-gateway/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "ShipStation Integration",
+      "image": "https://woocommerce.com/wp-content/uploads/2012/08/blue.png",
+      "excerpt": "Fulfill all your Woo orders (and wherever else you sell) quickly and easily using ShipStation, the #1 choice for online retailers. Try it free for 30 days today!",
+      "link": "https://woocommerce.com/products/shipstation-integration/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Facebook for WooCommerce",
+      "image": "https://woocommerce.com/wp-content/uploads/2017/04/open-graph-fb-for-woocommerce2x2.jpg?w=980",
+      "excerpt": "Get the Facebook for WooCommerce plugin for two powerful ways to help grow your business.",
+      "link": "https://woocommerce.com/products/facebook/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "PayPal Powered by Braintree",
+      "image": "https://woocommerce.com/wp-content/uploads/2016/02/pp_bt_v_rgb_150px.png",
+      "excerpt": "Accept PayPal, credit cards and debit cards with a single payment gateway solution — PayPal Powered by Braintree.",
+      "link": "https://woocommerce.com/products/woocommerce-gateway-paypal-powered-by-braintree/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Klarna",
+      "image": "https://woocommerce.com/wp-content/uploads/woocommerce_uploads/2011/12/klarna_main-logo.png",
+      "excerpt": "Give your customers the simplest buying experience with Klarna and achieve amazing checkout conversions",
+      "link": "https://woocommerce.com/products/klarna/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "PayPal Express Checkout",
+      "image": "https://woocommerce.com/wp-content/uploads/2016/04/paypal-gold-60.png",
+      "excerpt": "Add PayPal to your web checkout so your customers can pay from any device.",
+      "link": "https://woocommerce.com/products/woocommerce-gateway-paypal-express-checkout/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "WooCommerce Taxamo",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/12/Taxamo_logo-copy.jpg",
+      "excerpt": "Manage and track EU VAT rules to keep your shop in line with the new European law.",
+      "link": "https://woocommerce.com/products/woocommerce-taxamo/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "WooCommerce AvaTax",
+      "image": "https://woocommerce.com/wp-content/uploads/2016/01/avalara-logo-rgb-small.jpg",
+      "excerpt": "Get 100% accurate sales tax calculations and on time tax return filing. No more tracking sales tax rates, rules, or jurisdictional boundaries.",
+      "link": "https://woocommerce.com/products/woocommerce-avatax/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Inspire Payment Gateway",
+      "image": "https://woocommerce.com/wp-content/uploads/woocommerce_uploads/2012/11/logo.200.png",
+      "excerpt": "Accept transactions from all major credit cards including Visa, MasterCard, American Express, Discover, Diners Club, and JCB.",
+      "link": "https://woocommerce.com/products/inspire-gateway-2/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Coupon Shortcodes",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/09/free-woocommerce-extensions-coupon-shortcodes-450x145.png?w=450",
+      "excerpt": "Show coupon discount info using shortcodes. Allows to render coupon information and content conditionally, based on the validity of coupons.",
+      "link": "https://woocommerce.com/products/coupon-shortcodes/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "WooCommerce Bundle Style Coupons",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/05/woocommerce-bundle-style-coupons.jpg?w=490",
+      "excerpt": "Enables store owners to make a coupon only apply when all products required for it are in the cart.",
+      "link": "https://woocommerce.com/products/woocommerce-bundle-style-coupons/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Photos Product Tab",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/01/woocommerce-photos-product-tab-450x141.png?w=450",
+      "excerpt": "Allows you to display all the images you have attached to a product in a new tab on the single product page.",
+      "link": "https://woocommerce.com/products/photos-product-tab/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Product Archive Customiser",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/05/product-archive.jpg?w=280",
+      "excerpt": "Allows you to customise WooCommerce product archives.",
+      "link": "https://woocommerce.com/products/product-archive-customiser/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Putler Connector",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/01/putler-logo.png?w=118",
+      "excerpt": "Connect WooCommerce with Putler - the best sales analytics app. Synchronize orders and instantly get X-ray vision on your business!",
+      "link": "https://woocommerce.com/products/putler-connector/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Total Web Solutions Gateway",
+      "image": "https://woocommerce.com/wp-content/uploads/woocommerce_uploads/2013/05/tws-secure-clear.png",
+      "excerpt": "Accept Credit and Debit card payments for your store with Total Web Solutions Secure PayPage.",
+      "link": "https://woocommerce.com/products/total-web-solutions-gateway/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "InstantSearch+ for WooCommerce",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/08/instantsearchplus_360x60_woothemes.png",
+      "excerpt": "Add the fastest, most advanced, cloud-based search to your WooCommerce store, and see your conversion rates go up.",
+      "link": "https://woocommerce.com/products/instantsearch/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Product Details Customiser",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/05/product-details-customiser.jpeg?w=348",
+      "excerpt": "Customise WooCommerce product details pages. Show / Hide core components like product imagery, tabs, upsells &amp; related products.",
+      "link": "https://woocommerce.com/products/product-details-customiser/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "OrderCup",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/08/ordercup_woo_logo.png",
+      "excerpt": "Print Shipping Labels with 1 click. USPS, FedEx, UPS, DHL, Canada Post.  Up to 70% off on USPS and DHL rates. Fully web based. Ship from any Country!",
+      "link": "https://woocommerce.com/products/ordercup/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    }
+  ]
+}

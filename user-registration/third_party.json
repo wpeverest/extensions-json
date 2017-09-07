@@ -1,0 +1,284 @@
+{
+  "products": [
+    {
+      "title": "Quaderno",
+      "image": "https://woocommerce.com/wp-content/uploads/2016/05/quaderno-logo.png",
+      "excerpt": "Save hours every month by putting your invoicing and tax handling on autopilot.",
+      "link": "https://woocommerce.com/products/quaderno/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "OneSaas for WooCommerce",
+      "image": "https://woocommerce.com/wp-content/uploads/2016/04/OneSaas-Transparent-Logo-x2000.png",
+      "excerpt": "Save time and money by integrating your WooCommerce store and having it automatically share data with your accounting, shipping, and other apps you use to run your business.",
+      "link": "https://woocommerce.com/products/onesaas-for-woocommerce/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;29.00"
+    },
+    {
+      "title": "Unify",
+      "image": "https://woocommerce.com/wp-content/uploads/2016/04/Unify-logo.png",
+      "excerpt": "Unify easily integrates WooCommerce with QuickBooks, Xero, and NetSuite",
+      "link": "https://woocommerce.com/products/unify/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Shippo",
+      "image": "https://woocommerce.com/wp-content/uploads/2016/06/logo_v2_withicon_green.png",
+      "excerpt": "Connect with 15+ carriers, get up to 60% off USPS and DHL shipping labels, track parcels, and much more.",
+      "link": "https://woocommerce.com/products/shippo/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "LiveChat",
+      "image": "https://woocommerce.com/wp-content/uploads/2015/11/livechat_384x212.png",
+      "excerpt": "Grow your business with a premium live chat software with built-in help desk.",
+      "link": "https://woocommerce.com/products/livechat/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Olark",
+      "image": "https://woocommerce.com/wp-content/uploads/2015/11/2015_06_17_19_47_52.jpg?w=250",
+      "excerpt": "Olark live chat is the easiest way to support and help customers. Answer their questions and make every customer a happy one.",
+      "link": "https://woocommerce.com/products/olark/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Metrilo",
+      "image": "https://woocommerce.com/wp-content/uploads/2015/04/metrilo_logo.png?w=201",
+      "excerpt": "Metrilo helps you understand, engage with, and grow your WooCommerce customers. Getting started only takes a minute.",
+      "link": "https://woocommerce.com/products/metrilo/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Printful",
+      "image": "https://woocommerce.com/wp-content/uploads/woocommerce_uploads/2015/03/printful-logo.png",
+      "excerpt": "Connect your WooCommerce store with Printful to automatically print and ship all of your print product orders",
+      "link": "https://woocommerce.com/products/printful/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Stitch Labs",
+      "image": "https://woocommerce.com/wp-content/uploads/2015/01/Stitch-logo_900x176.png",
+      "excerpt": "<span style=\"font-weight: 400;\">Stitch Labs automatically syncs inventory, orders, purchasing, and fulfillment into a single operations platform</span>",
+      "link": "https://woocommerce.com/products/stitch-labs/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "MailPoet Checkout Subscription",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/10/mailpoet-woocommerce.png",
+      "excerpt": "A user-friendly newsletter plugin which allows you to use MailPoet with your WooCommerce store.",
+      "link": "https://woocommerce.com/products/mailpoet/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "TaxJar",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/10/TJ_logo_color_clear-background.png",
+      "excerpt": "Save hours every month by putting your sales tax on autopilot. Automated, multi-state sales tax calculation, collection, and filing.",
+      "link": "https://woocommerce.com/products/taxjar/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "FuturePay",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/09/logoFuturePay-1.png",
+      "excerpt": "With FuturePay, customers can buy now and pay later with one click, creating a streamlined checkout process on every device.",
+      "link": "https://woocommerce.com/products/futurepay/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "OrderCup",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/08/ordercup_woo_logo.png",
+      "excerpt": "Print Shipping Labels with 1 click. USPS, FedEx, UPS, DHL, Canada Post. Up to 70% off on USPS and DHL rates. Fully web based. Ship from any Country!",
+      "link": "https://woocommerce.com/products/ordercup/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "InstantSearch+ for WooCommerce",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/08/instantsearchplus_360x60_woothemes.png",
+      "excerpt": "Add the fastest, most advanced, cloud-based search to your WooCommerce store, and see your conversion rates go up.",
+      "link": "https://woocommerce.com/products/instantsearch/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "WooCommerce Gateways Country Limiter",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/07/OTG-logo-471.png?w=47",
+      "excerpt": "This extension lets you choose which payment gateways to display for different countries, as determined by the customer’s address.",
+      "link": "https://woocommerce.com/products/woocommerce-gateways-country-limiter/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;39.00"
+    },
+    {
+      "title": "Q-Invoice",
+      "image": "https://woocommerce.com/wp-content/uploads/woocommerce_uploads/2014/06/q_invoice_large-300x75.jpg",
+      "excerpt": "With q-invoice you can send professional looking invoices to your customers while updating your administration.",
+      "link": "https://woocommerce.com/products/q-invoice/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Quick Checkout",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/04/quick-checkout-logo.png?w=623",
+      "excerpt": "Add single page checkout forms anywhere on your WooCommerce powered website quickly and easily with Quick Checkout.",
+      "link": "https://woocommerce.com/products/quick-checkout/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;76.00"
+    },
+    {
+      "title": "SEO Friendly Images",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/03/seo_friendly_imgs_title.png?w=772",
+      "excerpt": "Automatically optimize product images by adding alt &amp; title attributes. Features include nicer image previews &amp; images sitemap.",
+      "link": "https://woocommerce.com/products/seo-friendly-images/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;179.00"
+    },
+    {
+      "title": "Putler Connector",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/01/putler-logo.png?w=118",
+      "excerpt": "Connect WooCommerce with Putler - the best sales analytics app. Synchronize orders and instantly get X-ray vision on your business!",
+      "link": "https://woocommerce.com/products/putler-connector/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Photos Product Tab",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/01/woocommerce-photos-product-tab-450x141.png?w=450",
+      "excerpt": "Allows you to display all the images you have attached to a product in a new tab on the single product page.",
+      "link": "https://woocommerce.com/products/photos-product-tab/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "TradeGecko",
+      "image": "https://woocommerce.com/wp-content/uploads/2015/09/tradegecko_new.jpg",
+      "excerpt": "Manage all your inventory and orders by connecting your WooCommerce store with TradeGecko.",
+      "link": "https://woocommerce.com/products/woocommerce-tradegecko/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Coupon Shortcodes",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/09/free-woocommerce-extensions-coupon-shortcodes-450x145.png?w=450",
+      "excerpt": "Show coupon discount info using shortcodes. Allows to render coupon information and content conditionally, based on the validity of coupons.",
+      "link": "https://woocommerce.com/products/coupon-shortcodes/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "FetchApp Integration",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/09/fetchapp.png?w=371",
+      "excerpt": "Provides integration between the FetchApp digital delivery application and WooCommerce.",
+      "link": "https://woocommerce.com/products/fetchapp-integration/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "WooCommerce Custom Currencies",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAYCAQAAACRxV9RAAAADklEQVR42mNkYGCkBgIAA8wAGRmQESkAAAAASUVORK5CYII=",
+      "excerpt": "Add your currency to list of supported currencies in WooCommerce or edit an existing one&#039;s symbol or label.",
+      "link": "https://woocommerce.com/products/woocommerce-custom-currencies/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Yotpo Social Reviews",
+      "image": "https://woocommerce.com/wp-content/uploads/woocommerce_uploads/2013/07/Yotpo.png",
+      "excerpt": "Build your shoppers confidence with trustworthy reviews. Yotpo is free and getting started takes less than 5 minutes.",
+      "link": "https://woocommerce.com/products/yotpo-social-reviews/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Order Notes Window",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/07/order-notes.png?w=772",
+      "excerpt": "Overrides the default behaviour when clicking on Order notes button so that modal window with order notes is displayed instantly.",
+      "link": "https://woocommerce.com/products/order-notes-window/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Novalnet Gateway",
+      "image": "https://woocommerce.com/wp-content/uploads/2014/09/novalnet-logo.jpg?w=245",
+      "excerpt": "Take payment via Novalnet Payment Solutions Worldwide on your WooCommerce store.",
+      "link": "https://woocommerce.com/products/novalnet-gateway/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Product Details Customiser",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/05/product-details-customiser.jpeg?w=348",
+      "excerpt": "Customise WooCommerce product details pages. Show / Hide core components like product imagery, tabs, upsells &amp; related products.",
+      "link": "https://woocommerce.com/products/product-details-customiser/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Total Web Solutions Gateway",
+      "image": "https://woocommerce.com/wp-content/uploads/woocommerce_uploads/2013/05/tws-secure-clear.png",
+      "excerpt": "Accept Credit and Debit card payments for your store with Total Web Solutions Secure PayPage.",
+      "link": "https://woocommerce.com/products/total-web-solutions-gateway/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Product Archive Customiser",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/05/product-archive.jpg?w=280",
+      "excerpt": "Allows you to customise WooCommerce product archives.",
+      "link": "https://woocommerce.com/products/product-archive-customiser/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "WooCommerce Bundle Style Coupons",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/05/woocommerce-bundle-style-coupons.jpg?w=490",
+      "excerpt": "Enables store owners to make a coupon only apply when all products required for it are in the cart.",
+      "link": "https://woocommerce.com/products/woocommerce-bundle-style-coupons/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Tickets for WooCommerce",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/03/wc-tickets.jpeg?w=255",
+      "excerpt": "<span style=\"font-weight: 400;\">Managing ticket sales for upcoming events has never been easier with Event Tickets Plus.</span>",
+      "link": "https://woocommerce.com/products/tickets-woocommerce/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;89.00"
+    },
+    {
+      "title": "WooCommerce Menu Cart",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/03/wc-menu-cart.jpeg?w=395",
+      "excerpt": "This plugin installs a shopping cart button in the navigation bar. The plugin takes less than a minute to setup, and includes a bunch of options.",
+      "link": "https://woocommerce.com/products/woocommerce-menu-cart/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Smart Offers",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/03/smart-offers.jpeg?w=410",
+      "excerpt": "Upsell, Downsell, One Time Offers, Backend sales and more - boost profits with targeted special offers and promotions.",
+      "link": "https://woocommerce.com/products/smart-offers/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;149.00"
+    },
+    {
+      "title": "InfusionSoft Payment Gateway",
+      "image": "https://woocommerce.com/wp-content/uploads/2013/03/connect4-woocommerce.jpg?w=500",
+      "excerpt": "Connects the WordPress shopping cart system WooCommerce with any Infusionsoft Merchant Account.",
+      "link": "https://woocommerce.com/products/infusionsoft-payment-gateway/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;127.00"
+    },
+    {
+      "title": "Inspire Payment Gateway",
+      "image": "https://woocommerce.com/wp-content/uploads/woocommerce_uploads/2012/11/logo.200.png",
+      "excerpt": "Accept transactions from all major credit cards including Visa, MasterCard, American Express, Discover, Diners Club, and JCB.",
+      "link": "https://woocommerce.com/products/inspire-gateway-2/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "IcePay Gateway",
+      "image": "https://woocommerce.com/wp-content/uploads/2012/11/logo-icepay-v21.png?w=553",
+      "excerpt": "ICEPAY online payment plugin for WooCommerce provides all popular online payment methods for your WooCommerce webshop.",
+      "link": "https://woocommerce.com/products/icepay-gateway/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Genesis Connect",
+      "image": "https://woocommerce.com/wp-content/uploads/2011/10/genesis-connect-woocommerce.jpg?w=610",
+      "excerpt": "This plugin allows you to seamlessly integrate WooCommerce with the Genesis Framework and Genesis child themes.",
+      "link": "https://woocommerce.com/products/genesis-connect/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "Cart2Cart",
+      "image": "https://woocommerce.com/wp-content/uploads/2011/10/cart2cart_logo_white.png?w=470",
+      "excerpt": "Switch your store to WooCommerce with Cart2Cart and migrate product, customer and order data from many other eCommerce platforms.",
+      "link": "https://woocommerce.com/products/cart2cart/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;0.00"
+    },
+    {
+      "title": "WPML for WooCommerce",
+      "image": "https://woocommerce.com/wp-content/uploads/2011/10/wcml650.png?w=650",
+      "excerpt": "WPML allows you to run WooCommerce sites in multiple languages and multiple currencies. You will be able to translate products and have ‘shop’ pages for each language.",
+      "link": "https://woocommerce.com/products/wpml-for-woocommerce/?utm_source=product&utm_medium=upsell&utm_campaign=wcaddons",
+      "price": "&#36;79.00"
+    }
+  ]
+}
