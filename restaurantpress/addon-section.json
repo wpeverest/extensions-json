@@ -1,0 +1,6 @@
+{
+  "all_extensions": {
+    "title": "All Extensions",
+    "endpoint": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/restaurantpress/sections/all_extensions.json"
+  }
+}
