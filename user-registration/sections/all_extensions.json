@@ -2,25 +2,25 @@
   "products": [
     {
       "title": "File Upload",
-      "image": "https://github.com/wpeverest/extensions-json/blob/master/user-registration/sections/images/file.png",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/file.png",
       "excerpt": "File Upload addon for User Registration plugin allows you to create upload field in your registration form. You can use this field on your registration forms allowing your users to upload important files, documents, images and more.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/file-upload/"
     },
     {
       "title": "Social Connect",
-      "image": "https://github.com/wpeverest/extensions-json/blob/master/user-registration/sections/images/social.png",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/social.png",
       "excerpt": "Signing up made easier and faster! With this addon you can make your users register to your site with social platforms like Facebook, Twitter, Google+, LinkedIn or others. Users details will be automatically pulled from their social profiles.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/social-connect/"
     },
     {
       "title": "MailChimp",
-      "image": "https://github.com/wpeverest/extensions-json/blob/master/user-registration/sections/images/mailchimp.png",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/mailchimp.png",
       "excerpt": "MailChimp add-on of User Registration plugin synchronizes your mailChimp account with User Registration plugin and automatically subscribes your site users to your mailchimp mailing list on registration.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/mailchimp/"
     },
     {
       "title": "WooCommerce Integration",
-      "image": "https://github.com/wpeverest/extensions-json/blob/master/user-registration/sections/images/woo-extension.png",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/woo-extension.png",
       "excerpt": "Integrates WooCommerce plugin with your user-registration and allows you to manage user billing, shipping, orders via user registration account page",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/woocommerce/"
     }
