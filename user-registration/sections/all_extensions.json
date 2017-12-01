@@ -23,6 +23,12 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/woo-extension.png",
       "excerpt": "Integrates WooCommerce plugin with your user-registration and allows you to manage user billing, shipping, orders via user registration account page",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/woocommerce/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-woocommerce"
+    },
+    {
+      "title": "Content Restriction",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/content-restriction.png",
+      "excerpt": "Content Restriction addon allows you to restrict full or partial content from page, post to only logged in users or logged in users with specific roles.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/content-restriction/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-content-restriction"
     }
   ]
 }
