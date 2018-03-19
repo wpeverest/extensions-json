@@ -1,1 +1,18 @@
-[{"slug":"_featured","label":"Featured"},{"slug":"_all","label":"All"},{"slug":"bundles","label":"Bundles"},{"slug":"product-extensions","label":"Enhancements"},{"slug":"marketing-extensions","label":"Marketing"},{"slug":"payment-gateways","label":"Payments"},{"slug":"shipping-methods","label":"Shipping"},{"slug":"operations","label":"Store Management"}]
+[
+  {
+    "slug": "_all",
+    "label": "All"
+  },
+  {
+    "slug": "marketing-addons",
+    "label": "Marketing"
+  },
+  {
+    "slug": "payment-gateways",
+    "label": "Payments"
+  },
+  {
+    "slug": "operations",
+    "label": "Form Management"
+  }
+]
