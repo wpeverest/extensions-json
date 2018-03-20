@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "title": "MailChimp Addon",
+      "slug": "everest-forms-mailchimp",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailchimp.png",
+      "excerpt": "WPForms MailChimp addon allows you to create MailChimp newsletter signup forms in WordPress, so you can grow your email list.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/aweber/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-mailchimp"
+    },
+    {
+      "title": "Social Connect",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/social.png",
+      "excerpt": "Signing up made easier and faster! With this addon you can make your users register to your site with social platforms like Facebook, Twitter, Google+, LinkedIn or others. Users details will be automatically pulled from their social profiles.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/social-connect/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-social-connect"
+    },
+    {
+      "title": "MailChimp",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/mailchimp.png",
+      "excerpt": "MailChimp add-on of User Registration plugin synchronizes your mailChimp account with User Registration plugin and automatically subscribes your site users to your mailchimp mailing list on registration.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/mailchimp/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-mailchimp"
+    },
+    {
+      "title": "WooCommerce Integration",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/woo-extension.png",
+      "excerpt": "Integrates WooCommerce plugin with your user-registration and allows you to manage user billing, shipping, orders via user registration account page",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/woocommerce/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-woocommerce"
+    },
+    {
+      "title": "Content Restriction",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/content-restriction.png",
+      "excerpt": "Content Restriction addon allows you to restrict full or partial content from page, post to only logged in users or logged in users with specific roles.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/content-restriction/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-content-restriction"
+    }
+  ]
+}
