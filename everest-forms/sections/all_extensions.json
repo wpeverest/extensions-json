@@ -34,6 +34,13 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/geolocation.png",
       "excerpt": "Everest Forms geolocation addon allows you to collect and store your website visitors geolocation data along with their form submission.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-geolocation"
+    },
+    {
+      "title": "Signature Addon",
+      "slug": "everest-forms-signature",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/signature.png",
+      "excerpt": "Everest Forms Signature addon makes it easy for users to sign your forms. This WordPress signature plugin will allow your users to sign contracts and other agreements with their mouse or touch screen.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/signature/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-signature"
     }
   ]
 }
