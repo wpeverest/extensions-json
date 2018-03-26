@@ -5,42 +5,68 @@
       "slug": "everest-forms-aweber",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/aweber.png",
       "excerpt": "Everest Forms AWeber addon allows you to create AWeber newsletter signup forms in WordPress, so you can grow your email list.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/aweber/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-aweber"
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/aweber/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-aweber",
+      "plan": [
+        "basic",
+        "plus",
+        "professional"
+      ]
     },
     {
       "title": "MailChimp Addon",
       "slug": "everest-forms-mailchimp",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailchimp.png",
       "excerpt": "Everest Forms MailChimp addon allows you to create MailChimp newsletter signup forms in WordPress, so you can grow your email list.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/aweber/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-mailchimp"
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/aweber/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-mailchimp",
+      "plan": [
+        "basic",
+        "plus",
+        "professional"
+      ]
     },
     {
       "title": "PayPal Standard Addon",
       "slug": "everest-forms-paypal",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/paypal.png",
       "excerpt": "Everest Forms PayPal addon allows you to connect your WordPress site with PayPal to easily collect payments, donations, and online orders.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-paypal"
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-paypal",
+      "plan": [
+        "basic",
+        "plus",
+        "professional"
+      ]
     },
     {
       "title": "Stripe Addon",
       "slug": "everest-forms-stripe",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/stripe.png",
       "excerpt": "Everest Forms Stripe addon allows you to connect your WordPress site with Stripe to easily collect payments, donations, and online orders.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/stripe/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-stripe"
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/stripe/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-stripe",
+      "plan": [
+        "plus",
+        "professional"
+      ]
     },
     {
       "title": "Geolocation Addon",
       "slug": "everest-forms-geolocation",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/geolocation.png",
       "excerpt": "Everest Forms geolocation addon allows you to collect and store your website visitors geolocation data along with their form submission.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-geolocation"
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-geolocation",
+      "plan": [
+        "plus",
+        "professional"
+      ]
     },
     {
       "title": "Signature Addon",
       "slug": "everest-forms-signature",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/signature.png",
       "excerpt": "Everest Forms Signature addon makes it easy for users to sign your forms. This WordPress signature plugin will allow your users to sign contracts and other agreements with their mouse or touch screen.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/signature/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-signature"
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/signature/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-signature",
+      "plan": [
+        "professional"
+      ]
     }
   ]
 }
