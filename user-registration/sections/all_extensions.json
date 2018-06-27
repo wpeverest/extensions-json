@@ -29,6 +29,12 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/content-restriction.png",
       "excerpt": "Content Restriction addon allows you to restrict full or partial content from page, post to only logged in users or logged in users with specific roles.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/content-restriction/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-content-restriction"
+    },
+    {
+      "title": "Advanced Fields",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/advanced-fields.png",
+      "excerpt": "Advanced Fields provides you with additional advanced fields like Section Title, Custom HTML, Phone, Time Picker and WYSIWYG Fields. These fields will allow you to create more complex registration forms with ease.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/advanced-fields/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-advanced-fields"
     }
   ]
 }
