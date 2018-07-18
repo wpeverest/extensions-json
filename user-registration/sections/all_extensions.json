@@ -45,7 +45,7 @@
     {
       "title": "Profile Connect",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/profile-connect.png",
-      "excerpt": "Profile Connect addon allows admin to connect users registered via other forms to User Registration form. This is especially helpful if you have old users that were registered to your site via some other plugins or registered using default WordPress registration forms. The plugin allows individual as well as bulk action for the users to be connected to the desired user registration form.",
+      "excerpt": "Connect your old users i.e users created via some other plugins, default WordPress registration form to user registration forms. Allows both individual as well as bulk connection of users to any particular form.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/profile-connect/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-profile-connect"
     }
   ]
