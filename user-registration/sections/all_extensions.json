@@ -35,6 +35,18 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/advanced-fields.png",
       "excerpt": "Advanced Fields provides you with additional advanced fields like Section Title, Custom HTML, Phone, Time Picker and WYSIWYG Fields. These fields will allow you to create more complex registration forms with ease.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/advanced-fields/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-advanced-fields"
+    },
+    {
+      "title": "Conditional Logic",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/conditional-logic.jpg",
+      "excerpt": "Conditional Logic allows you to create more dynamic forms based on user input. You can now show or hide specific fields based on the users other input in the form. A field hide or show based on on multiple conditions fulfilled.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/conditional-logic/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-conditional-logic"
+    },
+    {
+      "title": "Profile Connect",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/profile-connect.png",
+      "excerpt": "Profile Connect addon allows admin to connect users registered via other forms to User Registration form. This is especially helpful if you have old users that were registered to your site via some other plugins or registered using default WordPress registration forms. The plugin allows individual as well as bulk action for the users to be connected to the desired user registration form.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/profile-connect/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-profile-connect"
     }
   ]
 }
