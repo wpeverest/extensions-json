@@ -47,6 +47,18 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/profile-connect.png",
       "excerpt": "Connect your old users i.e users created via some other plugins, default WordPress registration form to user registration forms. Allows both individual as well as bulk connection of users to any particular form.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/profile-connect/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-profile-connect"
+    },
+    {
+      "title": "PDF Form Submission",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/pdf-form-submission.png",
+      "excerpt": "PDF Form Submission addon allows to export registration form data in pdf form. PDF are great way to record, print and share with your team members. Automatically attachs the pdf to emails send to your users and admin.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/pdf-form-submission/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-pdf-form-submission"
+    },
+    {
+      "title": "PayPal Payment",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/payment-paypal.png",
+      "excerpt": "Integrates PayPal into your forms for registration fee payments, donations, and more. set either predefined, user defined or hidden amount on the form as per the requirement.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/payments/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-paypal-payment"
     }
   ]
 }
