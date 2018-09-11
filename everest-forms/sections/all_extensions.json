@@ -43,12 +43,12 @@
       ]
     },
     {
-      "title": "PayPal",
-      "slug": "everest-forms-paypal",
-      "name": "Everest Forms PayPal",
+      "title": "PayPal Standard",
+      "slug": "everest-forms-paypal-standard",
+      "name": "Everest Forms PayPal Standard",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-paypal.png",
       "excerpt": "Allows you to connect your forms site with PayPal to easily collect payments, donations, and online orders.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-paypal",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal-standard/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-paypal-standard",
       "plan": [
         "plus",
         "professional",
