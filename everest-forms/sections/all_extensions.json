@@ -67,6 +67,20 @@
         "professional",
         "agency"
       ]
+    },
+    {
+      "title": "Multi Part Forms",
+      "slug": "everest-forms-multi-part-forms",
+      "name": "Everest Forms Multi Part Forms",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/multi-part-forms.png",
+      "excerpt": "Allows you to easily break your forms into multiple page. Helps to make step wise form instead of one long form.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/multi-part-forms/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-multi-part-forms",
+      "plan": [
+      	"personal",
+        "plus",
+        "professional",
+        "agency"
+      ]
     }
   ]
 }
