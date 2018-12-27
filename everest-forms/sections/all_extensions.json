@@ -6,7 +6,7 @@
       "name": "Everest Forms MailChimp",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailchimp.png",
       "excerpt": "Allows your users to subscribe to MailChimp via Everest Forms",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/mailchimp/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-mailchimp",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/mailchimp/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=mailchimp",
       "plan": [
         "personal",
         "plus",
@@ -20,7 +20,7 @@
       "name": "Everest Forms ConvertKit",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/convertkit.png",
       "excerpt": "Allows you to connect your form with ConvertKit to collect subscribers",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/convertkit/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-convertkit",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/convertkit/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=convertkit",
       "plan": [
         "personal",
         "plus",
@@ -34,7 +34,7 @@
       "name": "Everest Forms PDF Form Submission",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/pdf-submission.png",
       "excerpt": "Create PDF for forms submitted and attach to emails as well.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/pdf-form-submission/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-geolocation",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/pdf-form-submission/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=pdf-form-submission",
       "plan": [
         "personal",
         "plus",
@@ -48,7 +48,7 @@
       "name": "Everest Forms PayPal Standard",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-paypal.png",
       "excerpt": "Allows you to connect your forms site with PayPal to easily collect payments, donations, and online orders.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal-standard/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-paypal-standard",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal-standard/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=paypal-standard",
       "plan": [
         "plus",
         "professional",
@@ -61,7 +61,7 @@
       "name": "Everest Forms Geolocation",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/geolocation.png",
       "excerpt": "Allows you to collect geolocation data like IP, Country, Postal and zip code along with the form submission.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-geolocation",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=geolocation",
       "plan": [
         "plus",
         "professional",
@@ -74,7 +74,7 @@
       "name": "Everest Forms Multi Part Forms",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/multi-part-forms.png",
       "excerpt": "Allows you to easily break your forms into multiple page. Helps to make step wise form instead of one long form.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/multi-part-forms/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=everest-forms-multi-part-forms",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/multi-part-forms/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=multi-part-forms",
       "plan": [
       	"personal",
         "plus",
