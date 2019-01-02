@@ -62,7 +62,7 @@
     },
     {
       "title": "Geolocation",
-      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/geolocation.png",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/geolocation.jpg",
       "excerpt": "Allows you to collect geo location data from users who registered on your site. Information like Country, City, Zip Code, Latitude/Longitude and location map for the user will accessible.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/geolocation/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-geolocation"
     },
