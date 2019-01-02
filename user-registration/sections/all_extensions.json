@@ -59,6 +59,24 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/payment-paypal.png",
       "excerpt": "Integrates PayPal into your forms for registration fee payments, donations, and more. set either predefined, user defined or hidden amount on the form as per the requirement.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/payments/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-paypal-payment"
+    },
+    {
+      "title": "Geolocation",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/geolocation.png",
+      "excerpt": "Allows you to collect geo location data from users who registered on your site. Information like Country, City, Zip Code, Latitude/Longitude and location map for the user will accessible.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/geolocation/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-geolocation"
+    },
+    {
+      "title": "LearnDash",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/learndash.png",
+      "excerpt": "Allows you to view user’s registered learndash courses, automatically enroll users to specified learndash courses and more.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/learndash/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-learndash"
+    },
+    {
+      "title": "Invite Codes",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/invite-codes.png",
+      "excerpt": " Allows you to restrict the registration on your site to users with invite Codes only. You can create a single or multiple invitation code, set expiry date, usage limit per invitation code and more.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/invite-codes/?utm_source=dashboard_extenstion&utm_medium=banner&utm_campaign=user-registration-invite-codes"
     }
   ]
 }
