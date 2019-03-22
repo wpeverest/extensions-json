@@ -1,5 +1,19 @@
 {
   "products": [
+  	{
+      "title": "Style Customizer",
+      "slug": "everest-forms-style-customizer",
+      "name": "Everest Forms Style Customizer",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/style-customizer.png",
+      "excerpt": "Allows you to make form design changes without touching any code. Powerful customize panel with live preview makes changing colors, fonts, spacing, background, alignment and more an ease.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/style-customizer/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=style-customizer",
+      "plan": [
+        "personal",
+        "plus",
+        "professional",
+        "agency"
+      ]
+    },
     {
       "title": "MailChimp",
       "slug": "everest-forms-mailchimp",
@@ -77,6 +91,19 @@
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/multi-part-forms/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=multi-part-forms",
       "plan": [
       	"personal",
+        "plus",
+        "professional",
+        "agency"
+      ]
+    },
+    {
+      "title": "Survey, Polls and Quiz",
+      "slug": "everest-forms-survey-polls-quiz",
+      "name": "Everest Forms Survey polls quiz",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/multi-part-forms.png",
+      "excerpt": "Allows you to create an intuitive survey, poll and quiz forms within a minute. Also, provides you extra fields like Rating, Likert scale, scale rating along with admin reporting with graphs, charts and more.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/survey-polls-and-quiz/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=survey-polls-and-quiz",
+      "plan": [
         "plus",
         "professional",
         "agency"
