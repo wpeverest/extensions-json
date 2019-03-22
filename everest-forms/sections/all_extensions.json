@@ -45,7 +45,7 @@
     {
       "title": "PDF Form Submission",
       "slug": "everest-forms-pdf-submission",
-      "name": "Everest Forms PDF Form Submission",
+      "name": "Everest Forms PDF Submission",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/pdf-submission.png",
       "excerpt": "Create PDF for forms submitted and attach to emails as well.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/pdf-form-submission/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=pdf-form-submission",
@@ -85,7 +85,7 @@
     {
       "title": "Multi Part Forms",
       "slug": "everest-forms-multi-part",
-      "name": "Everest Forms Multi Part Forms",
+      "name": "Everest Forms Multi Part",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/multi-part-forms.png",
       "excerpt": "Allows you to easily break your forms into multiple page. Helps to make step wise form instead of one long form.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/multi-part-forms/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=multi-part-forms",
