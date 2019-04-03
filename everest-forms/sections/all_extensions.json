@@ -1,18 +1,13 @@
 {
   "products": [
-  	{
+    {
       "title": "Style Customizer",
       "slug": "everest-forms-style-customizer",
       "name": "Everest Forms Style Customizer",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/style-customizer.png",
       "excerpt": "Allows you to make form design changes without touching any code. Powerful customize panel with live preview makes changing colors, fonts, spacing, background, alignment and more an ease.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/style-customizer/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=style-customizer",
-      "plan": [
-        "personal",
-        "plus",
-        "professional",
-        "agency"
-      ]
+      "plan": ["personal", "plus", "professional", "agency"]
     },
     {
       "title": "MailChimp",
@@ -21,12 +16,7 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailchimp.png",
       "excerpt": "Allows your users to subscribe to MailChimp via Everest Forms",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/mailchimp/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=mailchimp",
-      "plan": [
-        "personal",
-        "plus",
-        "professional",
-        "agency"
-      ]
+      "plan": ["personal", "plus", "professional", "agency"]
     },
     {
       "title": "ConvertKit",
@@ -35,12 +25,7 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/convertkit.png",
       "excerpt": "Allows you to connect your form with ConvertKit to collect subscribers",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/convertkit/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=convertkit",
-      "plan": [
-        "personal",
-        "plus",
-        "professional",
-        "agency"
-      ]
+      "plan": ["personal", "plus", "professional", "agency"]
     },
     {
       "title": "PDF Form Submission",
@@ -49,12 +34,7 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/pdf-submission.png",
       "excerpt": "Create PDF for forms submitted and attach to emails as well.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/pdf-form-submission/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=pdf-form-submission",
-      "plan": [
-        "personal",
-        "plus",
-        "professional",
-        "agency"
-      ]
+      "plan": ["personal", "plus", "professional", "agency"]
     },
     {
       "title": "PayPal Standard",
@@ -63,11 +43,16 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-paypal.png",
       "excerpt": "Allows you to connect your forms site with PayPal to easily collect payments, donations, and online orders.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal-standard/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=paypal-standard",
-      "plan": [
-        "plus",
-        "professional",
-        "agency"
-      ]
+      "plan": ["plus", "professional", "agency"]
+    },
+    {
+      "title": "Stripe",
+      "slug": "everest-forms-stripe",
+      "name": "Everest Forms Stripe",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-stripe.png",
+      "excerpt": "Allows you to connect your forms site with Stripe to easily collect payments, donations, and online orders.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/stripe/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=stripe",
+      "plan": ["plus", "professional", "agency"]
     },
     {
       "title": "Geolocation",
@@ -76,11 +61,7 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/geolocation.png",
       "excerpt": "Allows you to collect geolocation data like IP, Country, Postal and zip code along with the form submission.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=geolocation",
-      "plan": [
-        "plus",
-        "professional",
-        "agency"
-      ]
+      "plan": ["plus", "professional", "agency"]
     },
     {
       "title": "Multi Part Forms",
@@ -89,12 +70,7 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/multi-part-forms.png",
       "excerpt": "Allows you to easily break your forms into multiple page. Helps to make step wise form instead of one long form.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/multi-part-forms/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=multi-part-forms",
-      "plan": [
-      	"personal",
-        "plus",
-        "professional",
-        "agency"
-      ]
+      "plan": ["personal", "plus", "professional", "agency"]
     },
     {
       "title": "Survey Polls and Quiz",
@@ -103,11 +79,7 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/survey-poll-quiz.png",
       "excerpt": "Allows you to create an intuitive survey, poll and quiz forms within a minute. Also, provides you extra fields like Rating, Likert scale, scale rating along with admin reporting with graphs, charts and more.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/survey-polls-and-quiz/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=survey-polls-and-quiz",
-      "plan": [
-        "plus",
-        "professional",
-        "agency"
-      ]
+      "plan": ["plus", "professional", "agency"]
     }
   ]
 }
