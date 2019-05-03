@@ -80,6 +80,15 @@
       "excerpt": "Allows you to create an intuitive survey, poll and quiz forms within a minute. Also, provides you extra fields like Rating, Likert scale, scale rating along with admin reporting with graphs, charts and more.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/survey-polls-and-quiz/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=survey-polls-and-quiz",
       "plan": ["plus", "professional", "agency"]
+    },
+    {
+      "title": "Zapier",
+      "slug": "zapier",
+      "name": "Everest Forms Zapier",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/zapier.png",
+      "excerpt": "Allows you to connect your forms with your 1500+ web applications.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/zapier/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=survey-polls-and-quiz",
+      "plan": ["plus", "professional", "agency"]
     }
   ]
 }
