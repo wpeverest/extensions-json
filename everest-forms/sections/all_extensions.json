@@ -52,7 +52,7 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-stripe.png",
       "excerpt": "Allows you to connect your forms site with Stripe to easily collect payments, donations, and online orders.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/stripe/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=stripe",
-      "plan": ["plus", "professional", "agency"]
+      "plan": ["professional", "agency"]
     },
     {
       "title": "Geolocation",
@@ -88,7 +88,7 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/zapier.png",
       "excerpt": "Allows you to connect your forms with your 1500+ web applications.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/zapier/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=survey-polls-and-quiz",
-      "plan": ["plus", "professional", "agency"]
+      "plan": ["professional", "agency"]
     }
   ]
 }
