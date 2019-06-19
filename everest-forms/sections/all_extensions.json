@@ -83,7 +83,7 @@
     },
     {
       "title": "Zapier",
-      "slug": "zapier",
+      "slug": "everest-forms-zapier",
       "name": "Everest Forms Zapier",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/zapier.png",
       "excerpt": "Allows you to connect your forms with your 1500+ web applications.",
