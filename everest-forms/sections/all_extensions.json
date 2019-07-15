@@ -73,6 +73,15 @@
       "plan": ["personal", "plus", "professional", "agency"]
     },
     {
+        "title": "Custom Captcha",
+        "slug": "everest-forms-captcha",
+        "name": "Everest Forms Custom Captcha",
+        "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/everest-forms-addon-icons/everest-forms/sections/images/custom-captcha.png",
+        "excerpt": "Allows you to add custom questions and Math Captcha to your forms to reduce spam protection.",
+        "link": "https://wpeverest.com/wordpress-plugins/everest-forms/captcha/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=captcha",
+        "plan": ["personal", "plus", "professional", "agency"]
+    },
+    {
       "title": "Survey Polls and Quiz",
       "slug": "everest-forms-survey-polls-quiz",
       "name": "Everest Forms Survey, Polls and Quiz",
@@ -85,10 +94,10 @@
       "title": "Zapier",
       "slug": "everest-forms-zapier",
       "name": "Everest Forms Zapier",
-      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/everest-forms-addon-icons/everest-forms/sections/images/custom-captcha.png",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/zapier.png",
       "excerpt": "Allows you to connect your forms with your 1500+ web applications.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/zapier/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=survey-polls-and-quiz",
       "plan": ["professional", "agency"]
-    }
+    },
   ]
 }
