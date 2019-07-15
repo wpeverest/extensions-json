@@ -95,7 +95,7 @@
       "slug": "everest-forms-user-registration",
       "name": "Everest Forms User Registration",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/user-registration.png",
-      "excerpt": "Allows you to create a custom WordPress user registration form.",
+      "excerpt": "Allows you to create a custom WordPress user registration form and collect payments.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/user-registration/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=user-registration",
       "plan": ["plus", "professional", "agency"]
     },
@@ -104,7 +104,7 @@
       "slug": "everest-forms-post-submission",
       "name": "Everest Forms Post Submission",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/post-submission.png",
-      "excerpt": "Allows your users to submit blog posts without logging into the admin area.",
+      "excerpt": "Allows your users to submit blog posts from front-end without logging into the admin area.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/post-submission/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=post-submission",
       "plan": ["plus", "professional", "agency"]
     },
