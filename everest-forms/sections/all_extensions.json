@@ -100,13 +100,13 @@
         "plan": ["plus", "professional", "agency"]
       },
       {
-        "title": "User Registration",
-        "slug": "everest-forms-user-registration",
-        "name": "Everest Forms User Registration",
-        "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/user-registration.png",
+        "title": "Post Submission",
+        "slug": "everest-forms-post-submission",
+        "name": "Everest Forms Post Submission",
+        "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/post-submission.png",
         "excerpt": "Allows you to create a custom WordPress user registration form.",
-        "link": "https://wpeverest.com/wordpress-plugins/everest-forms/user-registration/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=user-registration",
-        "plan": ["professional", "agency"]
+        "link": "https://wpeverest.com/wordpress-plugins/everest-forms/user-registration/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=post-submission",
+        "plan": ["plus", "professional", "agency"]
       },
     {
       "title": "Zapier",
