@@ -85,7 +85,7 @@
       "title": "Survey Polls and Quiz",
       "slug": "everest-forms-survey-polls-quiz",
       "name": "Everest Forms Survey, Polls and Quiz",
-      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/everest-forms-addon-icons/everest-forms/sections/images/survey-poll-quiz.png",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/survey-poll-quiz.png",
       "excerpt": "Allows you to create an intuitive survey, poll and quiz forms within a minute. Also, provides you extra fields like Rating, Likert scale, scale rating along with admin reporting with graphs, charts and more.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/survey-polls-and-quiz/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=survey-polls-and-quiz",
       "plan": ["plus", "professional", "agency"]
