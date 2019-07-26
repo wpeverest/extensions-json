@@ -5,7 +5,7 @@
       "slug": "everest-forms-style-customizer",
       "name": "Everest Forms Style Customizer",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/style-customizer.png",
-      "excerpt": "Allows you to make form design changes without touching any code. Powerful customize panel with live preview makes changing colors, fonts, spacing, background, alignment and more an ease.",
+      "excerpt": "Allows you to make design changes without coding. Powerful customizing panel with live preview makes changing colors, fonts, spacing, background, alignment and more an ease.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/style-customizer/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=style-customizer",
       "plan": ["personal", "plus", "professional", "agency"]
     },
@@ -14,7 +14,7 @@
       "slug": "everest-forms-mailchimp",
       "name": "Everest Forms MailChimp",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailchimp.png",
-      "excerpt": "Allows your users to subscribe to MailChimp via Everest Forms",
+      "excerpt": "Allows your users to subscribe to MailChimp via Everest Forms. Users filling up Everest form can be directly added to your subscriber list in MailChimp.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/mailchimp/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=mailchimp",
       "plan": ["personal", "plus", "professional", "agency"]
     },
@@ -23,7 +23,7 @@
       "slug": "everest-forms-convertkit",
       "name": "Everest Forms ConvertKit",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/convertkit.png",
-      "excerpt": "Allows you to connect your form with ConvertKit to collect subscribers",
+      "excerpt": "Allows you to seamlessly connect Everest form with ConvertKit and capture every detail for every new visitor via your Everest form to collect subscribers.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/convertkit/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=convertkit",
       "plan": ["personal", "plus", "professional", "agency"]
     },
@@ -32,7 +32,7 @@
       "slug": "everest-forms-pdf-submission",
       "name": "Everest Forms PDF Submission",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/pdf-submission.png",
-      "excerpt": "Create PDF for forms submitted and attach to emails as well.",
+      "excerpt": "Allows you to generate PDF of the data entries submitted by your users via Everest forms and also lets you attach them to emails effortlessly in few clicks.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/pdf-form-submission/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=pdf-form-submission",
       "plan": ["personal", "plus", "professional", "agency"]
     },
@@ -41,7 +41,7 @@
       "slug": "everest-forms-paypal-standard",
       "name": "Everest Forms PayPal Standard",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-paypal.png",
-      "excerpt": "Allows you to connect your forms site with PayPal to easily collect payments, donations, and online orders.",
+      "excerpt": "Allows you to integrate online payment service to your e-commerce website. You can connect your Everest forms with PayPal to easily collect payments, donations, and online orders.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal-standard/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=paypal-standard",
       "plan": ["plus", "professional", "agency"]
     },
@@ -50,7 +50,7 @@
       "slug": "everest-forms-stripe",
       "name": "Everest Forms Stripe",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-stripe.png",
-      "excerpt": "Allows you to connect your forms site with Stripe to easily collect payments, donations, and online orders.",
+      "excerpt": "Allows you to integrate online payment service to your e-commerce website. You can connect your Everest forms with Stripe to easily collect payments, donations, and online orders.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/stripe/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=stripe",
       "plan": ["professional", "agency"]
     },
@@ -59,7 +59,7 @@
       "slug": "everest-forms-geolocation",
       "name": "Everest Forms Geolocation",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/geolocation.png",
-      "excerpt": "Allows you to collect geolocation data like IP, Country, Postal and zip code along with the form submission.",
+      "excerpt": "Allows you to collect precise location of your users and collect data like IP , Country, Postal and zip code along with form submission to provide you an idea of your subscriber map.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=geolocation",
       "plan": ["plus", "professional", "agency"]
     },
@@ -68,7 +68,7 @@
       "slug": "everest-forms-multi-part",
       "name": "Everest Forms Multi Part",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/multi-part-forms.png",
-      "excerpt": "Allows you to easily break your forms into multiple page. Helps to make step wise form instead of one long form.",
+      "excerpt": "Allows you to easily break your long forms into multiple parts. It helps you to make a step wise form instead of one long form which adds rich user experience to your website.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/multi-part-forms/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=multi-part-forms",
       "plan": ["personal", "plus", "professional", "agency"]
     },
@@ -77,7 +77,7 @@
       "slug": "everest-forms-captcha",
       "name": "Everest Forms Custom Captcha",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/custom-captcha.png",
-      "excerpt": "Allows you to add Custom Questions and Math Captcha to your forms for spam prevention.",
+      "excerpt": "Allows you to add Custom Questions and Math Captcha to your Everest form for the prevention of spam data entries. It adds a security layer to your website.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/captcha/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=captcha",
       "plan": ["personal", "plus", "professional", "agency"]
     },
@@ -86,7 +86,7 @@
       "slug": "everest-forms-survey-polls-quiz",
       "name": "Everest Forms Survey, Polls and Quiz",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/survey-polls-quiz.png",
-      "excerpt": "Allows you to create an intuitive survey, poll and quiz forms within a minute. Also, provides you extra fields like Rating, Likert scale, scale rating along with admin reporting with graphs, charts and more.",
+      "excerpt": "Allows you to create an intuitive survey, poll and quiz forms easily. It provides extra fields like Rating, Likert scale, scale rating along with admin reporting with graphs, charts and more.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/survey-polls-and-quiz/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=survey-polls-and-quiz",
       "plan": ["plus", "professional", "agency"]
     },
@@ -95,7 +95,7 @@
       "slug": "everest-forms-user-registration",
       "name": "Everest Forms User Registration",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/user-registration.png",
-      "excerpt": "Allows you to create a custom WordPress user registration form and collect payments.",
+      "excerpt": "Allows you to create a custom WordPress user registration form instantly in few simple steps. You can add or remove input fields as per the style of your registration using this feature.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/user-registration/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=user-registration",
       "plan": ["plus", "professional", "agency"]
     },
@@ -104,7 +104,7 @@
       "slug": "everest-forms-post-submissions",
       "name": "Everest Forms Post Submissions",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/post-submissions.png",
-      "excerpt": "Allows your users to submit blog posts from front-end without logging into the admin area.",
+      "excerpt": "Allows you to have user generated content. Users to submit their blogs, posts or contents e.t.c. from front-end without the hassle of logging into the admin dashboard.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/post-submissions/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=post-submissions",
       "plan": ["professional", "agency"]
     },
@@ -113,7 +113,7 @@
       "slug": "everest-forms-zapier",
       "name": "Everest Forms Zapier",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/zapier.png",
-      "excerpt": "Allows you to connect your forms with over 1500+ web applications.",
+      "excerpt": "Allows you to easily connect your Everest forms with over 1500+ popular web applications hassle free. Zapier addon makes it butter-smooth integrating forms and apps.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/zapier/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=zapier",
       "plan": ["professional", "agency"]
     }
