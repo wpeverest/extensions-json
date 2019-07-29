@@ -104,7 +104,7 @@
       "slug": "everest-forms-post-submissions",
       "name": "Everest Forms Post Submissions",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/post-submissions.png",
-      "excerpt": "Allows you to have user generated content. Enables users to submit their blogs, posts, contents, etc. from front-end without the hassle of logging into the admin dashboard.",
+      "excerpt": "Allows you to have user-submitted content. It also lets your users to submit their blogs posts from front-end without the hassle of logging into the admin dashboard.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/post-submissions/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=post-submissions",
       "plan": ["professional", "agency"]
     },
