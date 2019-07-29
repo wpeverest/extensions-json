@@ -23,7 +23,7 @@
       "slug": "everest-forms-convertkit",
       "name": "Everest Forms ConvertKit",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/convertkit.png",
-      "excerpt": "Allows you to seamlessly connect your form with ConvertKit. It also lets you to capture every detail for new visitors through the form submissions to collect subscribers.",
+      "excerpt": "Allows you to seamlessly connect your form with ConvertKit. It also lets you to capture every detail of new visitors through the form submissions to collect subscribers.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/convertkit/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=convertkit",
       "plan": ["personal", "plus", "professional", "agency"]
     },
