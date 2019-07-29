@@ -5,7 +5,7 @@
       "slug": "everest-forms-style-customizer",
       "name": "Everest Forms Style Customizer",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/style-customizer.png",
-      "excerpt": "Allows you to make design changes without coding. Powerful customizing panel with live preview makes changing colors, fonts, spacing, background, alignment and more an ease.",
+      "excerpt": "Allows you to make design changes without coding. Powerful customizing panel with live preview helps you customize colors, fonts, spacing, background, alignment and more.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/style-customizer/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=style-customizer",
       "plan": ["personal", "plus", "professional", "agency"]
     },
@@ -23,7 +23,7 @@
       "slug": "everest-forms-convertkit",
       "name": "Everest Forms ConvertKit",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/convertkit.png",
-      "excerpt": "Allows you to seamlessly connect Everest form with ConvertKit and capture every detail for every new visitor via your Everest form to collect subscribers.",
+      "excerpt": "Allows you to seamlessly connect Everest form with ConvertKit. It helps to collect subscribers by capturing details of new visitor via your Everest form.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/convertkit/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=convertkit",
       "plan": ["personal", "plus", "professional", "agency"]
     },
@@ -32,7 +32,7 @@
       "slug": "everest-forms-pdf-submission",
       "name": "Everest Forms PDF Submission",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/pdf-submission.png",
-      "excerpt": "Allows you to generate PDF of the data entries submitted by your users via Everest forms and also lets you attach them to emails effortlessly in few clicks.",
+      "excerpt": "Allows you to generate PDF of the information submitted by your users via Everest forms. It also lets you attach them to emails effortlessly in few clicks.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/pdf-form-submission/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=pdf-form-submission",
       "plan": ["personal", "plus", "professional", "agency"]
     },
@@ -59,7 +59,7 @@
       "slug": "everest-forms-geolocation",
       "name": "Everest Forms Geolocation",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/geolocation.png",
-      "excerpt": "Allows you to collect precise location of your users and collect data like IP, Country, Postal and zip code along with form submission to provide you an idea of your subscriber map.",
+      "excerpt": "Allows you to collect precise location of your users. It collects data like IP , Country, Postal and zip code along with form submission to provide you an idea of your subscriber map.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=geolocation",
       "plan": ["plus", "professional", "agency"]
     },
