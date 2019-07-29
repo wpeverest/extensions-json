@@ -14,7 +14,7 @@
       "slug": "everest-forms-mailchimp",
       "name": "Everest Forms MailChimp",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailchimp.png",
-      "excerpt": "Allows your users to subscribe to MailChimp via Everest Forms. Users filling up Everest form can be directly added to your subscriber list in MailChimp.",
+      "excerpt": "Allows your users to subscribe to MailChimp through form submissions. Users filling up the forms can be directly added to your subscribers list in MailChimp.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/mailchimp/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=mailchimp",
       "plan": ["personal", "plus", "professional", "agency"]
     },
