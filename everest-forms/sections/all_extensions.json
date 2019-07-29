@@ -59,7 +59,7 @@
       "slug": "everest-forms-geolocation",
       "name": "Everest Forms Geolocation",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/geolocation.png",
-      "excerpt": "Allows you to collect precise location of your users and collect data like IP , Country, Postal and zip code along with form submission to provide you an idea of your subscriber map.",
+      "excerpt": "Allows you to collect precise location of your users and collect data like IP, Country, Postal and zip code along with form submission to provide you an idea of your subscriber map.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=geolocation",
       "plan": ["plus", "professional", "agency"]
     },
