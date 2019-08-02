@@ -10,6 +10,15 @@
       "plan": ["personal", "plus", "professional", "agency"]
     },
     {
+      "title": "Multi Part Forms",
+      "slug": "everest-forms-multi-part",
+      "name": "Everest Forms Multi Part",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/multi-part-forms.png",
+      "excerpt": "Allows you to easily break your long forms into multiple parts. It helps you to make a stepwise form instead of a long-form which adds rich user experience to your website.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/multi-part-forms/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=multi-part-forms",
+      "plan": ["personal", "plus", "professional", "agency"]
+    },
+    {
       "title": "MailChimp",
       "slug": "everest-forms-mailchimp",
       "name": "Everest Forms MailChimp",
@@ -37,22 +46,13 @@
       "plan": ["personal", "plus", "professional", "agency"]
     },
     {
-      "title": "PayPal Standard",
-      "slug": "everest-forms-paypal-standard",
-      "name": "Everest Forms PayPal Standard",
-      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-paypal.png",
-      "excerpt": "Allows you to integrate online payment service to your e-commerce website. You can connect your Everest forms with PayPal to easily collect payments, donations, and online orders.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal-standard/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=paypal-standard",
-      "plan": ["plus", "professional", "agency"]
-    },
-    {
-      "title": "Stripe",
-      "slug": "everest-forms-stripe",
-      "name": "Everest Forms Stripe",
-      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-stripe.png",
-      "excerpt": "Allows you to integrate online payment service to your e-commerce website. You can connect your Everest forms with Stripe to easily collect payments, donations, and online orders.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/stripe/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=stripe",
-      "plan": ["professional", "agency"]
+      "title": "Custom Captcha",
+      "slug": "everest-forms-captcha",
+      "name": "Everest Forms Custom Captcha",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/custom-captcha.png",
+      "excerpt": "Allows you to add custom questions or math captcha to your form and fight back against spam form submissions. It also adds a security layer to your website.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/captcha/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=captcha",
+      "plan": ["personal", "plus", "professional", "agency"]
     },
     {
       "title": "Geolocation",
@@ -62,24 +62,6 @@
       "excerpt": "Allows you to collect precise location of your visitors and store their geolocation data like IP, Country, and Postal/Zip Code along with form submissions.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/geolocation/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=geolocation",
       "plan": ["plus", "professional", "agency"]
-    },
-    {
-      "title": "Multi Part Forms",
-      "slug": "everest-forms-multi-part",
-      "name": "Everest Forms Multi Part",
-      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/multi-part-forms.png",
-      "excerpt": "Allows you to easily break your long forms into multiple parts. It helps you to make a stepwise form instead of a long-form which adds rich user experience to your website.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/multi-part-forms/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=multi-part-forms",
-      "plan": ["personal", "plus", "professional", "agency"]
-    },
-    {
-      "title": "Custom Captcha",
-      "slug": "everest-forms-captcha",
-      "name": "Everest Forms Custom Captcha",
-      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/custom-captcha.png",
-      "excerpt": "Allows you to add custom questions or math captcha to your form and fight back against spam form submissions. It also adds a security layer to your website.",
-      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/captcha/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=captcha",
-      "plan": ["personal", "plus", "professional", "agency"]
     },
     {
       "title": "Survey Polls and Quiz",
@@ -106,6 +88,24 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/post-submissions.png",
       "excerpt": "Allows you to have user-submitted content. It also lets your users to submit their blogs posts from front-end without the hassle of logging into the admin dashboard.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/post-submissions/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=post-submissions",
+      "plan": ["professional", "agency"]
+    },
+    {
+      "title": "PayPal Standard",
+      "slug": "everest-forms-paypal-standard",
+      "name": "Everest Forms PayPal Standard",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-paypal.png",
+      "excerpt": "Allows you to integrate online payment service to your e-commerce website. You can connect your Everest forms with PayPal to easily collect payments, donations, and online orders.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/paypal-standard/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=paypal-standard",
+      "plan": ["plus", "professional", "agency"]
+    },
+    {
+      "title": "Stripe",
+      "slug": "everest-forms-stripe",
+      "name": "Everest Forms Stripe",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/payment-stripe.png",
+      "excerpt": "Allows you to integrate online payment service to your e-commerce website. You can connect your Everest forms with Stripe to easily collect payments, donations, and online orders.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/stripe/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=stripe",
       "plan": ["professional", "agency"]
     },
     {
