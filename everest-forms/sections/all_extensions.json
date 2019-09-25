@@ -48,7 +48,7 @@
     {
       "title": "Custom Captcha",
       "slug": "everest-forms-captcha",
-      "name": "Everest Forms Custom Captcha",
+      "name": "Everest Forms Captcha",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/custom-captcha.png",
       "excerpt": "Allows you to add custom questions or math captcha to your form and fight back against spam form submissions. It also adds a security layer to your website.",
       "link": "https://wpeverest.com/wordpress-plugins/everest-forms/captcha/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=captcha",
