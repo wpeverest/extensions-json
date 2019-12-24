@@ -3,15 +3,13 @@
 	  {
 		"title": "Simple Contact Form",
 		"slug": "everest-forms-simple-contact-form",
-		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/template/images/simple-contact-form.png",
-		"link": "https://wpeverest.com/wordpress-plugins/everest-forms/style-customizer/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=style-customizer",
+		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/template/images/convertkit.png",
 		"plan": ["free"]
 	  },
 	  {
 		"title": "Advanced Contact Form",
 		"slug": "everest-forms-advanced-contact-form",
-		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/template/images/advanced-contact-form.png",
-		"link": "https://wpeverest.com/wordpress-plugins/everest-forms/style-customizer/?utm_source=user-dashboard&utm_medium=addons&utm_campaign=free-version&utm_content=style-customizer",
+		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/template/images/zapier.png",
 		"plan": ["free"]
 	  }
 	]
