@@ -2,14 +2,15 @@
 	"templates": [
 		{
 			"title": "Start From Scratch",
-			"slug": "everest-forms-blank-form",
+			"slug": "blank",
 			"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/template/everest-forms/templates/images/new-form.png",
 			"plan": ["free"]
 		  },
 	  {
 		"title": "Simple Contact Form",
-		"slug": "everest-forms-simple-contact-form",
+		"slug": "contact",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/template/everest-forms/templates/images/simple-contact-form.png",
+		"settings" : {"id":127,"form_field_id":"1","form_fields":{"fullname":{"id":"fullname","type":"text","label":"Name","meta-key":"name","description":"","required":"1","placeholder":"","css":""},"email":{"id":"email","type":"email","label":"Email","meta-key":"email","description":"","required":"1","placeholder":"","default_value":"","css":""},"subject":{"id":"subject","type":"text","label":"Subject","meta-key":"subject","description":"","required":"1","placeholder":"","css":""},"message":{"id":"message","type":"textarea","label":"Message","meta-key":"message","description":"","placeholder":"","css":""}},"settings":{"form_title":"fessadfsdf","form_desc":"","successful_form_submission_message":"Thanks for contacting us! We will be in touch with you shortly.","redirect_to":"0","custom_page":"2","external_url":"","layout_class":"default","form_class":"","submit_button_text":"Submit","honeypot":"1","email":{"connection_1":{"connection_name":"Admin Notification","evf_to_email":"{admin_email}","evf_from_name":"wpeverest","evf_from_email":"{admin_email}","evf_reply_to":"{field_id=\"email\"}","evf_email_subject":"New Form Entry - fessadfsdf","evf_email_message":"{all_fields}"}}},"structure":{"row_1":{"grid_1":["fullname","email","subject","message"]}}};
 		"plan": ["free"]
 	  },
 	  {
