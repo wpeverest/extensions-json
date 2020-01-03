@@ -18,7 +18,7 @@
 		"slug": "everest-forms-advanced-contact-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/template/everest-forms/templates/images/style-customizer.png",
 		"plan": ["personal","plus","professional","agency"],
-		"addons" : ["everest-forms-style-customizer","everest-forms-pro"]
+		"addons" : ["everest-forms-style-customizer","everest-forms-mailchimp"]
 	  }
 	]
   }
