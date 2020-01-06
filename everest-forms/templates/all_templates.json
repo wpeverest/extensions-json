@@ -1,24 +1,36 @@
 {
-	"templates": [
-		{
-			"title": "Start From Scratch",
-			"slug": "blank",
-			"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/template/everest-forms/templates/images/new-form.png",
-			"plan": ["free"]
-		  },
-	  {
-		"title": "Simple Contact Form",
-		"slug": "contact",
-		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/template/everest-forms/templates/images/simple-contact-form.png",
-		"settings" : "eyJpZCI6MTI3LCJmb3JtX2ZpZWxkX2lkIjoiMSIsImZvcm1fZmllbGRzIjp7ImZ1bGxuYW1lIjp7ImlkIjoiZnVsbG5hbWUiLCJ0eXBlIjoidGV4dCIsImxhYmVsIjoiTmFtZSIsIm1ldGEta2V5IjoibmFtZSIsImRlc2NyaXB0aW9uIjoiIiwicmVxdWlyZWQiOiIxIiwicGxhY2Vob2xkZXIiOiIiLCJjc3MiOiIifSwiZW1haWwiOnsiaWQiOiJlbWFpbCIsInR5cGUiOiJlbWFpbCIsImxhYmVsIjoiRW1haWwiLCJtZXRhLWtleSI6ImVtYWlsIiwiZGVzY3JpcHRpb24iOiIiLCJyZXF1aXJlZCI6IjEiLCJwbGFjZWhvbGRlciI6IiIsImRlZmF1bHRfdmFsdWUiOiIiLCJjc3MiOiIifSwic3ViamVjdCI6eyJpZCI6InN1YmplY3QiLCJ0eXBlIjoidGV4dCIsImxhYmVsIjoiU3ViamVjdCIsIm1ldGEta2V5Ijoic3ViamVjdCIsImRlc2NyaXB0aW9uIjoiIiwicmVxdWlyZWQiOiIxIiwicGxhY2Vob2xkZXIiOiIiLCJjc3MiOiIifSwibWVzc2FnZSI6eyJpZCI6Im1lc3NhZ2UiLCJ0eXBlIjoidGV4dGFyZWEiLCJsYWJlbCI6Ik1lc3NhZ2UiLCJtZXRhLWtleSI6Im1lc3NhZ2UiLCJkZXNjcmlwdGlvbiI6IiIsInBsYWNlaG9sZGVyIjoiIiwiY3NzIjoiIn19LCJzZXR0aW5ncyI6eyJmb3JtX3RpdGxlIjoiZmVzc2FkZnNkZiIsImZvcm1fZGVzYyI6IiIsInN1Y2Nlc3NmdWxfZm9ybV9zdWJtaXNzaW9uX21lc3NhZ2UiOiJUaGFua3MgZm9yIGNvbnRhY3RpbmcgdXMhIFdlIHdpbGwgYmUgaW4gdG91Y2ggd2l0aCB5b3Ugc2hvcnRseS4iLCJyZWRpcmVjdF90byI6IjAiLCJjdXN0b21fcGFnZSI6IjIiLCJleHRlcm5hbF91cmwiOiIiLCJsYXlvdXRfY2xhc3MiOiJkZWZhdWx0IiwiZm9ybV9jbGFzcyI6IiIsInN1Ym1pdF9idXR0b25fdGV4dCI6IlN1Ym1pdCIsImhvbmV5cG90IjoiMSIsImVtYWlsIjp7ImNvbm5lY3Rpb25fMSI6eyJjb25uZWN0aW9uX25hbWUiOiJBZG1pbiBOb3RpZmljYXRpb24iLCJldmZfdG9fZW1haWwiOiJ7YWRtaW5fZW1haWx9IiwiZXZmX2Zyb21fbmFtZSI6IndwZXZlcmVzdCIsImV2Zl9mcm9tX2VtYWlsIjoie2FkbWluX2VtYWlsfSIsImV2Zl9yZXBseV90byI6IntmaWVsZF9pZD1cImVtYWlsXCJ9IiwiZXZmX2VtYWlsX3N1YmplY3QiOiJOZXcgRm9ybSBFbnRyeSAtIGZlc3NhZGZzZGYiLCJldmZfZW1haWxfbWVzc2FnZSI6InthbGxfZmllbGRzfSJ9fX0sInN0cnVjdHVyZSI6eyJyb3dfMSI6eyJncmlkXzEiOlsiZnVsbG5hbWUiLCJlbWFpbCIsInN1YmplY3QiLCJtZXNzYWdlIl19fX0=",
-		"plan": ["free"]
-	  },
-	  {
-		"title": "Advanced Contact Form",
-		"slug": "everest-forms-advanced-contact-form",
-		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/template/everest-forms/templates/images/style-customizer.png",
-		"plan": ["personal","plus","professional","agency"],
-		"addons" : ["everest-forms-style-customizer","everest-forms-mailchimp"]
-	  }
-	]
-  }
+  "templates": [
+    {
+      "title": "Start From Scratch",
+      "slug": "blank",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/template/everest-forms/templates/images/new-form.png",
+      "plan": [
+        "free"
+      ]
+    },
+    {
+      "title": "Simple Contact Form",
+      "slug": "contact",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/template/everest-forms/templates/images/simple-contact-form.png",
+      "settings": "eyJpZCI6MTI3LCJmb3JtX2ZpZWxkX2lkIjoiMSIsImZvcm1fZmllbGRzIjp7ImZ1bGxuYW1lIjp7ImlkIjoiZnVsbG5hbWUiLCJ0eXBlIjoidGV4dCIsImxhYmVsIjoiTmFtZSIsIm1ldGEta2V5IjoibmFtZSIsImRlc2NyaXB0aW9uIjoiIiwicmVxdWlyZWQiOiIxIiwicGxhY2Vob2xkZXIiOiIiLCJjc3MiOiIifSwiZW1haWwiOnsiaWQiOiJlbWFpbCIsInR5cGUiOiJlbWFpbCIsImxhYmVsIjoiRW1haWwiLCJtZXRhLWtleSI6ImVtYWlsIiwiZGVzY3JpcHRpb24iOiIiLCJyZXF1aXJlZCI6IjEiLCJwbGFjZWhvbGRlciI6IiIsImRlZmF1bHRfdmFsdWUiOiIiLCJjc3MiOiIifSwic3ViamVjdCI6eyJpZCI6InN1YmplY3QiLCJ0eXBlIjoidGV4dCIsImxhYmVsIjoiU3ViamVjdCIsIm1ldGEta2V5Ijoic3ViamVjdCIsImRlc2NyaXB0aW9uIjoiIiwicmVxdWlyZWQiOiIxIiwicGxhY2Vob2xkZXIiOiIiLCJjc3MiOiIifSwibWVzc2FnZSI6eyJpZCI6Im1lc3NhZ2UiLCJ0eXBlIjoidGV4dGFyZWEiLCJsYWJlbCI6Ik1lc3NhZ2UiLCJtZXRhLWtleSI6Im1lc3NhZ2UiLCJkZXNjcmlwdGlvbiI6IiIsInBsYWNlaG9sZGVyIjoiIiwiY3NzIjoiIn19LCJzZXR0aW5ncyI6eyJmb3JtX3RpdGxlIjoiZmVzc2FkZnNkZiIsImZvcm1fZGVzYyI6IiIsInN1Y2Nlc3NmdWxfZm9ybV9zdWJtaXNzaW9uX21lc3NhZ2UiOiJUaGFua3MgZm9yIGNvbnRhY3RpbmcgdXMhIFdlIHdpbGwgYmUgaW4gdG91Y2ggd2l0aCB5b3Ugc2hvcnRseS4iLCJyZWRpcmVjdF90byI6IjAiLCJjdXN0b21fcGFnZSI6IjIiLCJleHRlcm5hbF91cmwiOiIiLCJsYXlvdXRfY2xhc3MiOiJkZWZhdWx0IiwiZm9ybV9jbGFzcyI6IiIsInN1Ym1pdF9idXR0b25fdGV4dCI6IlN1Ym1pdCIsImhvbmV5cG90IjoiMSIsImVtYWlsIjp7ImNvbm5lY3Rpb25fMSI6eyJjb25uZWN0aW9uX25hbWUiOiJBZG1pbiBOb3RpZmljYXRpb24iLCJldmZfdG9fZW1haWwiOiJ7YWRtaW5fZW1haWx9IiwiZXZmX2Zyb21fbmFtZSI6IndwZXZlcmVzdCIsImV2Zl9mcm9tX2VtYWlsIjoie2FkbWluX2VtYWlsfSIsImV2Zl9yZXBseV90byI6IntmaWVsZF9pZD1cImVtYWlsXCJ9IiwiZXZmX2VtYWlsX3N1YmplY3QiOiJOZXcgRm9ybSBFbnRyeSAtIGZlc3NhZGZzZGYiLCJldmZfZW1haWxfbWVzc2FnZSI6InthbGxfZmllbGRzfSJ9fX0sInN0cnVjdHVyZSI6eyJyb3dfMSI6eyJncmlkXzEiOlsiZnVsbG5hbWUiLCJlbWFpbCIsInN1YmplY3QiLCJtZXNzYWdlIl19fX0=",
+      "plan": [
+        "free"
+      ]
+    },
+    {
+      "title": "Advanced Contact Form",
+      "slug": "everest-forms-advanced-contact-form",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/template/everest-forms/templates/images/style-customizer.png",
+      "plan": [
+        "personal",
+        "plus",
+        "professional",
+        "agency"
+      ],
+      "addons": {
+        "everest-forms-mailchimp": "Everest Forms - Mailchimp",
+        "everest-forms-style-customizer": "Everest Forms - Style Customizer"
+      }
+    }
+  ]
+}
