@@ -125,7 +125,6 @@
       ],
       "addons": {
         "everest-forms-pro": "Everest Forms Pro",
-        "everest-forms-style-customizer": "Everest Forms Style Customizer",
         "everest-forms-paypal-standard": "Everest Forms Paypal Standard",
         "everest-forms-stripe": "Everest Forms Stripe"
       }
