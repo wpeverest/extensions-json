@@ -1,6 +1,18 @@
 {
   "products": [
     {
+      "title": "Style Customizer",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/style-customizer.png",
+      "excerpt": "Gone are the days when registration forms used to look dull and boring. Easily style your registration forms according to your needs by changing various design components such as Font size, Font color, background color, background image, Border, padding, margin, alignment and more.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/style-customizer/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=style-customizer"
+    },
+    {
+      "title": "Multi Step Forms",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/multi-parts.png",
+      "excerpt": "Lengthy forms are time-consuming and boring. Form fillers easily get distracted and quit halfway through these types of forms. But, there’s no need to worry! Our User Registration Multi-Part Add-on allows you to divide your registration forms into multiple parts according to your requirements without any hassle.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part"
+    },
+    {
       "title": "File Upload",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/file.png",
       "excerpt": "File Upload addon for User Registration plugin allows you to create upload field in your registration form. You can use this field on your registration forms allowing your users to upload important files, documents, images and more.",
@@ -71,6 +83,18 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/learndash.png",
       "excerpt": "Allows you to view user’s registered learndash courses, automatically enroll users to specified learndash courses and more.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/learndash/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=learndash"
+    },
+    {
+      "title": "Customize My Account",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/customize-my-account.png",
+      "excerpt": "User Registration Customize My Account add-on allows you to create, edit and delete additional tabs on the account page along with custom content for that tab. Also supports drag and drop sorting of account tabs",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/customize-my-account/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=customize-my-account"
+    },
+    {
+      "title": "Field Visibility",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/field-visibility.png",
+      "excerpt": "User Registration Field Visibility add-on allows user registration fields to be hidden in the frontend form or your account profile page as per your choice. Also, allows you to make a field read only in registration form or profile page or both.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/field-visibility/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=field-visibility"
     },
     {
       "title": "Invite Codes",
