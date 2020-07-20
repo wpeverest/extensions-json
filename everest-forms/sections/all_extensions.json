@@ -20,6 +20,15 @@
     },
     {
       "title": "MailChimp",
+      "slug": "everest-forms-mailerlite",
+      "name": "Everest Forms MailerLite",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailerlite.png",
+      "excerpt": "Allows your users to subscribe to MailerLite through form submission via Everest Forms.",
+      "link": "https://wpeverest.com/wordpress-plugins/everest-forms/mailerlite/?utm_source=addons-page&utm_medium=banner&utm_campaign=evf-upgrade-to-pro&utm_content=mailerlite",
+      "plan": ["personal", "plus", "professional", "agency"]
+    },
+    {
+      "title": "MailerLite",
       "slug": "everest-forms-mailchimp",
       "name": "Everest Forms MailChimp",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailchimp.png",
