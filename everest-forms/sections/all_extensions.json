@@ -19,7 +19,7 @@
       "plan": ["personal", "plus", "professional", "agency"]
     },
     {
-      "title": "MailChimp",
+      "title": "MailerLite",
       "slug": "everest-forms-mailerlite",
       "name": "Everest Forms MailerLite",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailerlite.png",
@@ -28,7 +28,7 @@
       "plan": ["personal", "plus", "professional", "agency"]
     },
     {
-      "title": "MailerLite",
+      "title": "MailChimp",
       "slug": "everest-forms-mailchimp",
       "name": "Everest Forms MailChimp",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/mailchimp.png",
