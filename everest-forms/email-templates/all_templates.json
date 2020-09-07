@@ -8,7 +8,7 @@
 	{
 		"title": "Test Template",
 		"slug": "everest-forms-test-template",
-		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/email-template/everest-forms/templates/images/simple-contact-form.png",
+		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/email-template/everest-forms/email-templates/images/simple-contact-form.png",
 		"settings": ""
 	}
   ]
