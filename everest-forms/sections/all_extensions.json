@@ -124,6 +124,19 @@
 			]
 		},
 		{
+			"title": "Google Sheets",
+			"slug": "everest-forms-google-sheets",
+			"name": "Everest Forms Google Sheets",
+			"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/google-sheets.png",
+			"excerpt": "Allows you to send form submission data to Google Sheets spreadsheets.",
+			"link": "https://wpeverest.com/wordpress-plugins/everest-forms/google-sheets/?utm_source=addons-page&utm_medium=banner&utm_campaign=evf-upgrade-to-pro&utm_content=google-sheets",
+			"plan": [
+				"plus",
+				"professional",
+				"agency"
+			]
+		},
+		{
 			"title": "Survey Polls and Quiz",
 			"slug": "everest-forms-survey-polls-quiz",
 			"name": "Everest Forms Survey, Polls and Quiz",
