@@ -1,0 +1,9 @@
+{
+	"email_templates": [
+		{
+			"title": "Start From Scratch",
+			"slug": "blank",
+			"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/email-templates/user-registration/email-templates/images/new-email-template.png"
+		}
+	]
+}
