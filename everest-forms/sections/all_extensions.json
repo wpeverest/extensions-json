@@ -124,6 +124,19 @@
 			]
 		},
 		{
+			"title": "Campaign Monitor",
+			"slug": "everest-forms-campaign-monitor",
+			"name": "Everest Forms Campaign Monitor",
+			"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/campaign-monitor.png",
+			"excerpt": "Allows your users to subscribe to Campaign Monitor through form submission via Everest Forms.",
+			"link": "https://wpeverest.com/wordpress-plugins/everest-forms/campaign-monitor/?utm_source=addons-page&utm_medium=banner&utm_campaign=evf-upgrade-to-pro&utm_content=campaign-monitor",
+			"plan": [
+				"plus",
+				"professional",
+				"agency"
+			]
+		},
+		{
 			"title": "Google Sheets",
 			"slug": "everest-forms-google-sheets",
 			"name": "Everest Forms Google Sheets",
