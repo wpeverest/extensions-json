@@ -73,6 +73,12 @@
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/payments/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=paypal-payment"
     },
     {
+      "title": "Stripe",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/stripe.png",
+      "excerpt": "Stripe Addon allows you to accept payments on your forms for donation, product sale, and other services. Stripe is one of the most popular ways to accept credit card payments right on your site without much hassle. Also, support subscription payments.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/stripe/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=stripe"
+    },
+    {
       "title": "Geolocation",
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/geolocation.jpg",
       "excerpt": "Allows you to collect geo location data from users who registered on your site. Information like Country, City, Zip Code, Latitude/Longitude and location map for the user will accessible.",
@@ -101,6 +107,18 @@
       "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/invite-codes.png",
       "excerpt": " Allows you to restrict the registration on your site to users with invite Codes only. You can create a single or multiple invitation code, set expiry date, usage limit per invitation code and more.",
       "link": "https://wpeverest.com/wordpress-plugins/user-registration/invite-codes/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=invite-codes"
+    },
+    {
+      "title": "Extras",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/extras.png",
+      "excerpt": "This addon packs a lot of smaller features. Allows popup login form and registration forms, registration analytics, whitelisting email domains, auto password generation, and more",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/extras/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=extras"
+    },
+    {
+      "title": "Import Users",
+      "image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/user-registration/sections/images/import-users.png",
+      "excerpt": "You can easily import users on your WordPress site. Just select the form to map user details, choose a user data file in CSV format, map the fields, and import your users.",
+      "link": "https://wpeverest.com/wordpress-plugins/user-registration/import-users/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=import-users"
     }
   ]
 }
