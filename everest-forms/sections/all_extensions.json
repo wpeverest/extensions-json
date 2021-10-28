@@ -247,6 +247,30 @@
 				"professional",
 				"agency"
 			]
+		},
+		{
+			"title": "Save And Continue",
+			"slug": "everest-forms-save-and-continue",
+			"name": "Everest Forms Save And Continue",
+			"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/save-and-continue.jpg",
+			"excerpt": "Allows users to save their partially filled information and continue to work on it later. Users can opt to receive a link if they wish to continue later with the form",
+			"link": "https://wpeverest.com/wordpress-plugins/everest-forms/save-and-continue/?utm_source=addons-page&utm_medium=banner&utm_campaign=evf-upgrade-to-pro&utm_content=save-and-continue",
+			"plan": [
+				"professional",
+				"agency"
+			]
+		},
+		{
+			"title": "Repeater Fields",
+			"slug": "everest-forms-repeater-fields",
+			"name": "Everest Forms Repeater Fields",
+			"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/master/everest-forms/sections/images/repeater-fields.jpg",
+			"excerpt": "Repeater field add-on allows you to repeatedly add a set of form fields within your WordPress forms.",
+			"link": "https://wpeverest.com/wordpress-plugins/everest-forms/repeater-fields/?utm_source=addons-page&utm_medium=banner&utm_campaign=evf-upgrade-to-pro&utm_content=repeater-fields",
+			"plan": [
+				"professional",
+				"agency"
+			]
 		}
 	]
 }
