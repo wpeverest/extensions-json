@@ -1,81 +1,175 @@
 {
-	"demos": [
+	"plans" : [
+		"free",
+		"personal",
+		"plus",
+		"professional"
+	],
+	"categories": [
+		"purpose-based",
+		"feature-based"
+	],
+	"templates": [
 	  {
 		"title": "Multi-part Form",
+		"slug": "user-registration-multi-part-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/multiform-1.png",
 		"excerpt": "Lengthy forms are time-consuming and boring. Form fillers easily get distracted and quit halfway through these types of forms. But, there’s no need to worry! Our User Registration Multi-Part Add-on allows you to divide your registration forms into multiple parts according to your requirements without any hassle.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
-		"category": [ "feature-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
+		"plan" : [
+			"plus",
+			"professional"
+		],
+		"category": [
+			"feature-based"
+		]
 	 },
 	  {
 		"title": "Payment Form",
+		"slug": "user-registration-payment-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/payment.png",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
-		"category": [ "feature-based" ]
-	 },
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
+		"plan" : [
+			 "plus",
+			 "professional"
+			],
+		"category": [
+			"feature-based"
+			]
+		},
 	  {
 		"title": "Recaptcha Registration Form",
+		"slug": "user-registration-recaptcha-registration-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/recaptcha.png",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
-		"category": [ "purpose-based", "feature-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
+		"plan" : [
+			"free"
+		],
+		"category": [
+			"purpose-based",
+			"feature-based"
+		]
 	 },
 	  {
 		"title": "Social Registration Form",
+		"slug": "user-registration-social-registration-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/social-registration.png",
 		"excerpt": "Signing up made easier and faster! With this addon you can make your users register to your site with social platforms like Facebook, Twitter, Google+, LinkedIn or others. Users details will be automatically pulled from their social profiles.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/social-connect/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=social-connect",
-		"category": [ "purpose-based", "feature-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/social-connect/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=social-connect",
+		"plan" : [
+			"personal",
+			"plus",
+			"professional"
+		],
+		"category": [
+			"purpose-based",
+			"feature-based"
+		]
      },
 	  {
 		"title": "File Upload Form",
+		"slug": "user-registration-file-upload-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/file-upload.png",
 		"excerpt": "File Upload addon for User Registration plugin allows you to create upload field in your registration form. You can use this field on your registration forms allowing your users to upload important files, documents, images and more.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/file-upload/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=file-upload",
-		"category": [ "feature-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/file-upload/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=file-upload",
+		"plan" : [
+			"personal",
+			"plus",
+			"professional"
+		],
+		"category": [
+			"feature-based"
+		]
 	 },
 	  {
 		"title": "Restricted Registration Form",
+		"slug": "user-registration-restricted-registration-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/restricted-registration.png",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
-		"category": [ "purpose-based", "feature-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
+		"plan" : [
+			"plus",
+			"professional"
+		],
+		"category": [
+			"purpose-based",
+			"feature-based"
+		]
 	 },
 	  {
 		"title": "Course Registration Form",
+		"slug": "user-registration-course-registration-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/course.png",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
-		"category": [ "purpose-based", "feature-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
+		"plan" : [
+			"plus",
+			"professional"
+		],
+		"category": [
+			"purpose-based",
+			"feature-based"
+		]
 	 },
 	  {
 		"title": "Date and Time Form",
+		"slug": "user-registration-date-time-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/date-time.png",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
-		"category": [ "purpose-based", "feature-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
+		"plan" : [
+			"personal",
+			"plus",
+			"professional"
+		],
+		"category": [
+			"purpose-based",
+			"feature-based"
+		]
 	 },
 	  {
 		"title": "Donation Form",
+		"slug": "user-registration-donation-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/donation.png",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
-		"category": [ "purpose-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
+		"plan" : [
+			"plus",
+			"professional"
+		],
+		"category": [
+			"purpose-based"
+		]
 	 },
 	  {
 		"title": "Paypal Integration Form",
+		"slug": "user-registration-paypal-integration-form",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/paypal.png",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
-		"category": [ "feature-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
+		"plan" : [
+			"personal",
+			"plus",
+			"professional"
+		],
+		"category": [
+			"feature-based"
+		]
 	 },
 	  {
 		"title": "Profile Registration",
+		"slug": "user-registration-profile-registration",
 		"image": "https://raw.githubusercontent.com/wpeverest/extensions-json/wpeverest-plugins-demo/user-registration/demos/images/profile.png",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
-		"link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
-		"category": [ "purpose-based" ]
+		"preview_link": "https://wpeverest.com/wordpress-plugins/user-registration/multi-part/?utm_source=addons-page&utm_medium=banner&utm_campaign=ur-upgrade-to-pro&utm_content=multi-part",
+		"plan" : [
+			"free"
+		],
+		"category": [
+			"purpose-based"
+		]
 	 }
 	]
   }
