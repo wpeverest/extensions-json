@@ -53,6 +53,7 @@
         "everest-forms-mailchimp": "Everest Forms Mailchimp"
       },
 	  "category": [
+		"purpose-based",
 		"feature-based"
 	]
     },
@@ -243,6 +244,7 @@
 		  "everest-forms-paypal-standard": "Everest Forms PayPal Standard"
 		},
 		"category": [
+			"feature-based",
 			"purpose-based"
 		]
 	  },
